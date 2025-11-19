@@ -1,6 +1,6 @@
 # 🎨 AI-Powered Moodboard Generator (MVP)
 ### DES646 Mid-Term Assessment • Team: **D-for-Design**
-![Moodboard Generator Banner](https://YOUR-IMAGE-URL)
+![Moodboard Generator Banner](https://github.com/Sanketdaphal/AI_POWERED_MB/blob/main/Immage.png)
 
 The **AI-Powered Moodboard Generator** reduces the time designers spend building moodboards by automatically generating **color palettes, design styles, and visual cues** from natural-language design briefs.
 
