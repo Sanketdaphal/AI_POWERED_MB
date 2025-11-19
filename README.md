@@ -3,6 +3,7 @@
 ![Moodboard Generator Banner](https://github.com/Sanketdaphal/AI_POWERED_MB/blob/main/Immage.png)
 
 👉 [Click here to open the Moodboard Generator](http://172.23.12.190:8501/)
+👉 [Demo-Video](https://drive.google.com/drive/folders/1IThiw0gK0FUspQv1OnyJgasWrjUPYg7N?usp=sharing)
 
 
 The **AI-Powered Moodboard Generator** reduces the time designers spend building moodboards by automatically generating **color palettes, design styles, and visual cues** from natural-language design briefs.
