@@ -2,7 +2,7 @@
 ### DES646 Mid-Term Assessment • Team: **D-for-Design**
 ![Moodboard Generator Banner](https://github.com/Sanketdaphal/AI_POWERED_MB/blob/main/Immage.png)
 
-👉 [Click here to open the Moodboard Generator](http://172.23.12.190:8501/)
+👉 [Click here to open the Moodboard Generator](http://172.17.50.83:8501)
 👉 [Demo-Video](https://drive.google.com/drive/folders/1IThiw0gK0FUspQv1OnyJgasWrjUPYg7N?usp=sharing)
 
 
